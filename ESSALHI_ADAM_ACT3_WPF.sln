@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESSALHI_ADAM_ACT3_WPF", "ESSALHI_ADAM_ACT3_WPF\ESSALHI_ADAM_ACT3_WPF.csproj", "{BF1D91F1-16B5-4694-9C6D-68ABC5B66BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1D91F1-16B5-4694-9C6D-68ABC5B66BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1D91F1-16B5-4694-9C6D-68ABC5B66BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1D91F1-16B5-4694-9C6D-68ABC5B66BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1D91F1-16B5-4694-9C6D-68ABC5B66BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67071FD6-0C09-4280-B1BB-A45D817C4C9A}
+	EndGlobalSection
+EndGlobal
