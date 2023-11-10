@@ -23,7 +23,27 @@ namespace ESSALHI_ADAM_ACT3_WPF
         public MainWindow()
         {
             InitializeComponent();
+            TxtA.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            TxtB.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            TxtC.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
 
         }
+        public void VerifTextInput(Object sender, TextCompositionEventArgs e)
+        {          
+
+            if (e.Text != "," && !EstEntier(e.Text))
+            {
+                e.Handled = true;
+            }
+
+        }
+        private bool EstEntier(string texteUser)
+        {
+            string texteUser.TryParse
+        }
+
+
+
+
     }
 }
