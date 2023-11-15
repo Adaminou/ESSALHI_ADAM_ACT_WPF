@@ -1,5 +1,5 @@
 ﻿ESSALHI_ADAM_ACT3_WPF
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Carrefour\Desktop\wpf\ESSALHI_ADAM_ACT_WPF\ESSALHI_ADAM_ACT3_WPF\App.xaml
 2782457552
 
-8780838751
+6-2144529893
 194-1103864946
 MainWindow.xaml;PageResultat.xaml;
 
-True
+False
 

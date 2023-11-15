@@ -23,7 +23,8 @@
         <TextBox x:Name="TxtA" Grid.Column="1" Grid.ColumnSpan="2" Background="White" Width="215" Height="65" />
         <TextBox x:Name="TxtB" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Background="White" Width="215" Height="65" />
         <TextBox x:Name="TxtC" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Background="White" Width="215" Height="65" />
-        <Button x:Name="BtnCalculer" Content="CALCULER" Grid.ColumnSpan="2" Background="Gainsboro" Width="215" Height="65" FontWeight="Bold" FontSize="40" Grid.Row="3" Grid.Column="0">
+        <Button x:Name="BtnCalculer" Content="CALCULER" Grid.ColumnSpan="3" Background="Gainsboro" Width="215" Height="65" FontWeight="Bold" FontSize="40" Grid.Row="3" Grid.Column="0">
         </Button>
+        <Button x:Name="BtnV" Content="V" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Height="65" Width="64" FontSize="30" FontWeight="Bold" Grid.Column="1" Margin="175,0,0,0"/>
     </Grid>
 </Window>

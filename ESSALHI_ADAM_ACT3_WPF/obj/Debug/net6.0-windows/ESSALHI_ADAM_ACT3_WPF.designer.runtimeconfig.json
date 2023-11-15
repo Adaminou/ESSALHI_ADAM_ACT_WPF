@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\200537\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\200537\\.nuget\\packages",
-      "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\Carrefour\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Carrefour\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

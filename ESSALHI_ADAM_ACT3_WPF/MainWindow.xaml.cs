@@ -69,11 +69,16 @@ namespace ESSALHI_ADAM_ACT3_WPF
             string type;
             MethodesDuProjet mesOutils = new MethodesDuProjet();
             mesOutils.ResoudTrinome(a, b, c, out type);
+            PageResultat pageResultat = new PageResultat();
+            pageResultat.LblResultat.Text = type;
+            pageResultat.Show();
+
 
         }
-        private void SurvolBouton(object sender, MouseEventArgs e)
+        public void SurvolBouton(object sender, MouseEventArgs e)
         {
-
+            BtnV.Visibility = Visibility.Visible;
+            BtnV.Background = Brushes.Red;
         }
 
 
